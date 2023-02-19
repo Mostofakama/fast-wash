@@ -1,0 +1,598 @@
+body{
+   
+    margin:0;
+    padding:0;
+    font-family: 'Barlow', sans-serif;
+}
+
+.images-menu-logo-area{
+    background:url("images/buildings-7717853_1920.jpg");
+    background-size:cover;
+    height:740px;
+
+}
+.images-menu-logo-area2{
+    background:rgba(0, 0, 0, 0.70);
+    height:100%;
+
+}
+  .logo-area {
+      width:20%;
+      height:100%;
+      float:left;
+  }
+  .logo-area img {
+	width: 90%;
+	margin-top: 22px;
+	margin-left: 92px;
+}
+  .menu-logo-area{
+      width:100%;
+      height:98px;
+      background:rgba(0,0, 34, 0.40);
+  }
+  .menu-area{
+      width:70%;
+      height:100%;
+      float:right;
+      margin-right:20px;
+      display:block; 
+    
+
+  }
+  .menu-area ul{
+      list-style:none;
+      margin:0;
+      padding:0;
+      overflow:hidden;
+      float:right;
+  }
+  .menu-area ul li {
+	float: left;
+	padding: 38px 0px;
+	margin:0px 20px;
+}
+  .menu-area ul li a{
+      color:#fff;
+      font-size:18px;
+      text-decoration: none;
+      font-weight: 600;
+      
+
+  }
+  .menu-area ul li a:hover{
+    color:#EA2027;
+  
+    
+
+}
+.welcome-area h1{
+    margin-top:140px;
+    text-align: center;
+    color: #fff;
+    font-size: 80px;
+    line-height: 80px;
+    font-weight: 800;
+}
+.welcome-area{
+    margin:50px auto;
+}
+
+.button-area a{
+    background:#49b1fa;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    color: #fff !important;
+    padding: 23.5px 44px;
+    text-transform: uppercase;
+    z-index: 1;
+    text-decoration:none;
+    
+}
+.button-area{
+width:100%;
+text-align: center;
+}
+.menu-bers-area{
+    width:30%;
+    float:right;
+    height: 100%;
+    display:none;
+}
+.menu-bers-area a{
+    font-size:30px;
+    color:#fff;
+    float:right;
+    padding:30px;
+}
+
+.about-us-area{
+    height:750px;
+    width:100%;
+    background:#fff;
+}
+.about-area {
+	width: 44%;
+	float: right;
+	padding: 107px 70px 20px 0px;
+}
+.about-area h2{
+        position: relative;
+        display: block;
+        font-size: 50px;
+        line-height: 60px;
+        font-weight: 800;
+        margin: 0px;
+        color:#0b306e;
+        margin-bottom:40px;
+    
+}
+.about-area p {
+	color: #748196;
+	font-size: 18px;
+	font-weight: 500;
+	line-height: 40px;
+	margin: 5px;
+}
+.servises-images-area{
+    background:#0b306e;
+    height:100%;
+    width:100%;
+
+}
+.servises-images-area2{
+    background:url(images/shape-2.png);
+    background-size:cover;
+    height:450px;
+}
+
+.servises-area{
+    height:750px;
+    width:100%;
+    background:#dbcaca;
+}
+
+
+
+.about-area a{
+    background:#49b1fa;
+    display: inline-block;
+    font-size: 16px;
+    line-height: 26px;
+    font-family: 'Jost', sans-serif;
+    font-weight: 700;
+    color: #fff !important;
+    padding: 23.5px 44px;
+    text-transform: uppercase;
+    z-index: 1;
+    text-decoration:none;
+    margin-top:40px;
+}
+
+.absulute-images-area {
+
+	height: 680px;
+	width: 37%;
+	position: absolute;
+	left: 87px;
+    top: 118px;
+    border-bottom:16px solid #49b1fa;
+}
+.absulute-images-area img{
+    width:100%;
+    height:98%;
+
+  
+
+}
+.about-us-servises-area{
+    position: relative;
+}
+.servises{
+    width:30%;
+    height:100px;
+    padding:110px 0px 0px 83px;
+}
+.servises p{
+    font-weight: 400;
+    color:#0aa1d6;
+    font-size:20px;
+}
+
+.servises h2{
+    margin:0;
+    color:#fff;
+    font-size:48px;
+    font-weight:800;
+}
+.Industrial-Rope-Access {
+	height: 853px;
+	width: 93%;
+	position: absolute;
+	left: 60px;
+	bottom: 65px;
+}
+.imagrs-area{
+    width:99%;
+    height:80%;
+    overflow: hidden;
+}
+.imagrs-area img{
+   
+
+    width:320px;
+    transition: .5s;
+}
+.imagrs-area img:hover{
+   
+    
+    width:336px;
+}
+
+.images-industrial-area {
+	height: 348px;
+	width: 324px;
+	border: 18px solid #fff;
+	position: relative;
+	overflow: hidden;
+	background: #fff;
+	text-align: center;
+	margin: 10px 17px;
+	float: left;
+}
+.header-area{
+    margin-top:16px;
+}
+.header-area a{
+    text-decoration:none;
+    font-size:20px;
+    color:#0b306e;
+    font-weight: 500;
+   
+    transition: .5s;
+    
+}
+.header-area a:hover{
+  
+    color:#3498db;
+
+}
+.number-count-area{
+    background:#0aa1d6;
+    width:100%;
+    height:300px;
+}
+.number1-area{
+    background:url(images/s.png);
+    width:100%;
+    height:100%;
+}
+.spen-area {
+	width: 20%;
+	height: 154px;
+	display: inline-block;
+	text-align: center;
+	padding-bottom: 63px;
+	padding-left: 49px;
+	border-left: 1px solid #3bb3de;
+}
+
+.spen-area h2 {
+	color: #fff;
+	font-size: 50px;
+	font-weight: 600;
+	margin-bottom: 10px;
+	padding-top: 93px;
+}
+.spen-area p{
+    color:#fff;
+    font-size:17px;
+    margin:0;
+}
+.media-gallery-area{
+    background:#fff;
+    width:100%;
+    height:650px;
+}
+.header-area-media{
+    width:100%;
+    height:200px;
+    text-align:center;
+    background:#fff;
+}
+.header-area-media h2{
+    margin:0px;
+    color:#0b306e;
+    font-size:50px;
+    padding-top:80px;
+    font-weight: 800;
+    padding-bottom:80px;
+}
+.images-media-area{
+    width:333px;
+    height:400px;
+    position:relative;
+    margin-right:5px;
+    float:left;
+    overflow: hidden;
+}
+
+.text-media-area{
+    width:70px;
+    height:70px;
+    border-radius:50%;
+    background:#fff;
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin:auto;
+    font-size:30px;
+    display:none;
+    transition: 1s;
+}
+
+.images-media-area img{
+    width:348px;
+    height:409px;
+    transition-duration: 1s;
+}
+.images-media-area img:hover{
+    width:100%;
+    height:100%;
+}
+.text-media-area a {
+	text-decoration: none;
+	position: absolute;
+	top: 12px;
+	left: 25px;
+	font-size: 40px;
+	text-align: center;
+	color: #3f5c8d;
+	font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+
+.rot{
+   margin:0! important;
+}
+
+/* logo-images-media-area ar kaj */
+.logo-images-media-area{
+    background:#fff;
+    height:250px;
+    width:100%;
+    position: relative;
+}
+.ziza-area {
+	float: left;
+	padding: 68px 66px;
+}
+
+/* sharp7-area kaj */
+.sharp7-area{
+    background:#0b306e;
+    height:400px;
+    width:100%;
+
+}
+.sharp7-images-area{
+    background:url(images/shape-7.png);
+    height:100%;
+    width:100%;
+}
+.sharp7-text-logo-area{
+   
+    width:85%;
+    margin:auto;
+    overflow: hidden;
+    padding-top:72px;
+}
+.text-icons-area8{
+    width:200px;
+    height:250px;
+    float:left;
+}
+.text-icons-area8 h3{
+    font-size:23px;
+    color:#fff;
+    margin:10px;
+
+}
+.text-icons-area8 ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+}
+.text-icons-area8 ul li{
+    display:block;
+    margin:20px 16px;
+}
+.text-icons-area8 ul li a{
+    text-decoration:none;
+    color:#8697b2;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size:17px;
+
+}
+.text-icons-area8 ul li a span{
+    color:#8697b2;
+    padding-right:7px;
+    font-size:13px;
+}
+.text-icons-area8 ul li a span:hover{
+    color:#3498db;
+    
+}
+.text-icons-area8 ul li a:hover{
+color:#fff;
+}
+.text-icons-area7 {
+	width: 318px;
+	height: 321px;
+	float: left;
+	margin-left: 50px;
+}
+.mostofa-area{
+    display:block;
+    width:100%;
+    height:70px;
+    overflow: hidden;
+  
+}
+.icons-business-area{
+    width:19%;
+    float:left;
+    padding-top:17px;
+}
+.icons-business-area span{
+    color:#fff;
+    
+    padding:15px;
+    border-radius:50%;
+    font-size:25px;
+}
+.paragharap-spans-area{
+    width:60%;
+    float: left;
+}
+.paragharap-spans-area p{
+    font-size:20px;
+    color:#768aa9;
+    margin:5px 0;
+}
+.paragharap-spans-area a{
+    font-size:20px;
+    color:#fff;
+    padding:15px 0px ;
+    text-decoration:none;
+}
+.text-icons-area7 h3{
+    font-size:23px;
+    color:#fff;
+    margin:10px;
+
+}
+.facebook-twitter-area{
+    padding-top:16px;
+    padding-left:7px;
+}
+.facebook-twitter-area a{
+    color:#fff;
+    background:#1b74e4;
+    margin:5px;
+    padding:13px;
+    border-radius:40%;
+    font-size:30px;
+}
+.all-mostofa-kamla-area{
+    display:block;
+    position: relative;
+}
+
+.scoll-icons a{
+    color:#fff;
+    background:rgba(0, 0, 0, 0.7);
+    padding:13px;
+    border-radius:20px 20px 0px 0px ;
+    font-size:30px;
+    position: fixed;
+    right:20px;
+    bottom:30px;
+    
+}
+
+/* responsive websiten desing? */
+@media all and (max-width:1114px){
+
+    .welcome-area h1{
+        margin-top:140px;
+        text-align: center;
+        color: #fff;
+        font-size: 60px;
+        line-height: 70px;
+        font-weight: 900;
+    }
+    .logo-area img {
+        width: 90%;
+        margin-top: 32px;
+        margin-left: 12px;
+    }
+
+}
+
+
+
+
+
+
+@media all and (max-width:948px){
+
+    .welcome-area h1{
+        margin-top:140px;
+        text-align: center;
+        color: #fff;
+        font-size: 60px;
+        line-height: 70px;
+        font-weight: 900;
+    }
+    .logo-area img {
+        width: 90%;
+        margin-top: 32px;
+        margin-left: 12px;
+    }
+
+
+
+    .menu-area{
+        position: absolute;
+        right:0;
+        top:98px;
+        height:360px;
+        width:400px;
+        background:rgba(0,0, 34, 0.40);
+        border:2px solid #fff;
+        border-radius:10px;
+        display:none;
+        margin:0;
+      
+
+    }  
+    .menu-bers-area{
+       
+        display:block;
+  
+    }
+
+    .menu-area ul{
+        list-style:none;
+        margin:0;
+        padding:0;
+        overflow:hidden;
+        float:left;
+    }
+    .menu-area ul li {
+      width:100%;
+      float: none;
+      padding: 18px 0px;
+      margin:0px 20px;
+      border-bottom:1px solid #fff;
+  }
+    .menu-area ul li a{
+        color:#fff;
+        font-size:18px;
+        text-decoration: none;
+        font-weight: 600;
+        
+  
+    }
+
+
+}
